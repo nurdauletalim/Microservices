@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dbstructservice" />
+        <module name="schoolsubjectservice" />
+        <module name="admin" />
+        <module name="schoolnewsservice" />
+        <module name="schoolsheduleservice" />
+        <module name="schooluserservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="dbstructservice" target="1.8" />
+      <module name="newsservice" target="1.8" />
+      <module name="schoolnewsservice" target="1.8" />
+      <module name="schoolsheduleservice" target="1.8" />
+      <module name="schoolsubjectservice" target="1.8" />
+      <module name="schooluserservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="-parameters" />
+      <module name="dbstructservice" options="-parameters" />
+      <module name="newsservice" options="-parameters" />
+      <module name="schoolnewsservice" options="-parameters" />
+      <module name="schoolsheduleservice" options="-parameters" />
+      <module name="schoolsubjectservice" options="-parameters" />
+      <module name="schooluserservice" options="-parameters" />
+    </option>
+  </component>
+</project>

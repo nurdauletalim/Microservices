@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../admin-service/admin.iml" filepath="$PROJECT_DIR$/../admin-service/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbStruct-service/dbstructservice.iml" filepath="$PROJECT_DIR$/../dbStruct-service/dbstructservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school-news-service/schoolnewsservice.iml" filepath="$PROJECT_DIR$/../school-news-service/schoolnewsservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school-schedule-service/schoolsheduleservice.iml" filepath="$PROJECT_DIR$/../school-schedule-service/schoolsheduleservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school-subjects-service/schoolsubjectservice.iml" filepath="$PROJECT_DIR$/../school-subjects-service/schoolsubjectservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school-users-service/schooluserservice.iml" filepath="$PROJECT_DIR$/../school-users-service/schooluserservice.iml" />
+    </modules>
+  </component>
+</project>
