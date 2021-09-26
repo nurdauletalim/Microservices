@@ -2,6 +2,7 @@ package kz.iitu.schoolsubjectservice.service.impl;
 
 import kz.iitu.dbstructservice.model.Subjects;
 import kz.iitu.schoolsubjectservice.service.SubjectsService;
+import org.springframework.http.HttpRequest;
 import org.springframework.stereotype.Service;
 
 @Service
